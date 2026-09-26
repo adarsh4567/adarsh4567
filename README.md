@@ -1,4 +1,3 @@
-[github-profile-README.md](https://github.com/user-attachments/files/32680995/github-profile-README.md)
 # Adarsh Kumar
 
 **Software engineer · Real-time systems · Data engineering · Full-stack products**
